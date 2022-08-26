@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\sass\\css"
+		},
+		{
+			"path": "..\\..\\sass\\img"
+		}
+	],
+    "settings": {
+        "liveServer.settings.port": 5501,
+        "liveServer.settings.multiRootWorkspaceName": "css"
+    }
+}
